@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DaveHudiny
-- 👀 I’m interested in ... playing on my PS5
-- 🌱 I’m currently learning ... formal verification of neural networks.
-- 💞️ I’m looking to collaborate on ... summer internship in machine learning or similar areas of interest.
+- 👀 I’m interested in ... playing on my PS5 and RTX 3070.
+- 🌱 I’m currently learning ... many stuff.
+- 💞️ I’m looking to collaborate on ... stuff.
 - 📫 How to reach me ... here.
 
 <!---
