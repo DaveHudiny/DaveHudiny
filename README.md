@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @DaveHudiny
-- 👀 I’m interested in ... playing on my PS5 and RTX 3070.
+- 👀 I’m interested in ... playing on my PS5 and RTX 5070.
 - 🌱 I’m currently learning ... many stuff.
 - 💞️ I’m looking to collaborate on ... stuff.
 - 📫 How to reach me: https://howlongtobeat.com/user/DaveHudiny, discordapp.com/users/488052243535233035.
